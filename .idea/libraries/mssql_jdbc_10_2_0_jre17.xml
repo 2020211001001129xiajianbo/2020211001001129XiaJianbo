@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-10.2.0.jre17">
+    <CLASSES>
+      <root url="jar://E:/sqljdbc_10.2/chs/mssql-jdbc-10.2.0.jre17.jar!/" />
+      <root url="file://E:/apache-tomcat-9.0.60/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/apache-tomcat-9.0.60/lib" recursive="false" />
+  </library>
+</component>
