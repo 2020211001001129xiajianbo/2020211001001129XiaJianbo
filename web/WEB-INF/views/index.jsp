@@ -42,7 +42,7 @@
 <br/>
 <a href ="helo-servlet">Hello Servlet</a>
 <%@include file="footer.jsp"%>
-
+...
 </body>
 </html>
 
